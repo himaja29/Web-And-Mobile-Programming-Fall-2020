@@ -1,0 +1,15 @@
+.inputLI{
+  width: 100%;
+}
+.alignment{
+  text-align: center;
+}
+.headercolor{
+  background-color: mediumpurple;
+}
+.bodycolor{
+  background-color: olive;
+}
+.footercolor{
+  background-color: Tomato;
+}
